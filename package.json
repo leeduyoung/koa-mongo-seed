@@ -1,0 +1,9 @@
+{
+  "name": "koa-mongo-seed",
+  "version": "1.0.0",
+  "description": "Koa + MongoDB based Nodejs web server",
+  "main": "index.js",
+  "repository": "https://github.com/leeduyoung/koa-mongo-seed.git",
+  "author": "dylee",
+  "license": "mit"
+}
